@@ -1,6 +1,10 @@
 # Maze Generator
 A simple maze generator. You can tweak the maze configuration to your liking. This way you'll never get lost in a maze you're not comfortable with.
 
+## Itch.IO
+In case you want to see pictures visit the generator page on Itch.IO:
+https://josephblt.itch.io/maze-generator
+
 ## Creation Parameters
 - **Width / Height -** Width and Height of the maze.
 - **Seed -** Directs the creation of the maze. This means that for each combination of parameters + seed you get a specific maze. Just by changing this number, it is possible to create different maze versions  using the same set of parameters.
